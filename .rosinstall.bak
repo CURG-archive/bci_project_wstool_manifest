@@ -13,4 +13,4 @@
 - git: {local-name: openni_launch, uri: 'https://github.com/ros-drivers/openni_launch.git'}
 - git: {local-name: pr_msgs, uri: 'git@github.com:CURG/pr_msgs.git'}
 - git: {local-name: owd, uri: 'git@github.com:CURG/owd.git'}
-- git: {local-name: libpcan, uri: 'git@github.com:GAVLab/libpcan.git'}
+- git: {local-name: object_models, uri: 'git@github.com:CURG/object_models.git'}
