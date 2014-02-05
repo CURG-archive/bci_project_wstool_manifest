@@ -14,4 +14,3 @@
 - git: {local-name: pr_msgs, uri: 'git@github.com:CURG/pr_msgs.git'}
 - git: {local-name: owd, uri: 'git@github.com:CURG/owd.git'}
 - git: {local-name: object_models, uri: 'git@github.com:CURG/object_models.git'}
-- git: {local-name: pr2_object_manipulation, uri: 'https://github.com/ros-interactive-manipulation/pr2_object_manipulation.git'}
