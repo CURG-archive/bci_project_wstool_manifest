@@ -1,3 +1,4 @@
 *
 !.rosinstall*
 !.gitignore
+!check_diffs.sh
