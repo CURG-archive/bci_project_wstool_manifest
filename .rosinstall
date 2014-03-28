@@ -12,3 +12,4 @@
 - git: {local-name: pr_msgs, uri: 'git@github.com:CURG/pr_msgs.git'}
 - git: {local-name: owd, uri: 'git@github.com:CURG/owd.git'}
 - git: {local-name: object_models, uri: 'git@github.com:CURG/object_models.git'}
+- git: {local-name: rqt_monitor, uri: 'git@github.com:CURG/rqt_monitor.git'}
