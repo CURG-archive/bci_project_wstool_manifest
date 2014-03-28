@@ -9,8 +9,6 @@
 - git: {local-name: calibration, uri: 'git@github.com:CURG/calibration.git'}
 - git: {local-name: pc_filter, uri: 'git@github.com:CURG/pc_filter.git'}
 - git: {local-name: v4r_libraries, uri: 'git@github.com:CURG/v4r_libraries.git'}
-- git: {local-name: rgbd_launch, uri: 'https://github.com/ros-drivers/rgbd_launch.git'}
-- git: {local-name: openni_launch, uri: 'https://github.com/ros-drivers/openni_launch.git'}
 - git: {local-name: pr_msgs, uri: 'git@github.com:CURG/pr_msgs.git'}
 - git: {local-name: owd, uri: 'git@github.com:CURG/owd.git'}
 - git: {local-name: object_models, uri: 'git@github.com:CURG/object_models.git'}
