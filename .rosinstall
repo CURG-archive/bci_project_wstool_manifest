@@ -13,3 +13,8 @@
 - git: {local-name: owd, uri: 'git@github.com:CURG/owd.git'}
 - git: {local-name: object_models, uri: 'git@github.com:CURG/object_models.git'}
 - git: {local-name: rqt_monitor, uri: 'git@github.com:CURG/rqt_monitor.git'}
+- git: {local-name: moveit_trajectory_planner, uri: 'git@github.com:CURG/moveit_trajectory_planner.git'}
+- git: {local-name: staubli_barretthand_description, uri: 'git@github.com:CURG/staubli_barretthand_description.git'}
+- git: {local-name: staubli_barretthand_moveit_config, uri: 'git@github.com:CURG/staubli_barretthand_moveit_config.git'}
+- git: {local-name: staubli, uri: 'git@github.com:CURG/staubli.git'}
+- git: {local-name: barrett_model, uri: 'git@github.com:CURG/barrett_model.git'}
