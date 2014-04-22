@@ -18,3 +18,4 @@
 - git: {local-name: staubli_barretthand_moveit_config, uri: 'git@github.com:CURG/staubli_barretthand_moveit_config.git'}
 - git: {local-name: staubli, uri: 'git@github.com:CURG/staubli.git'}
 - git: {local-name: barrett_model, uri: 'git@github.com:CURG/barrett_model.git'}
+- git: {local-name: mock_vision, uri: 'git@github.com:CURG/mock_vision.git'}
