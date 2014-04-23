@@ -36,6 +36,8 @@ catkin_make
 catkin_make
 catkin_make
 
+sudo rosdep init
+rosdep update
 
 source devel/setup.bash
 rostest bci_experiment_launch bagged_vision_no_hw.launch
