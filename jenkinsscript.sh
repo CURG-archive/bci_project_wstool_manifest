@@ -32,6 +32,10 @@ rm -rf build/
 rm -rf devel/
 
 catkin_make
+#extra catkin_makes for when you have a slow computer...
+catkin_make
+catkin_make
+
 
 source devel/setup.bash
 rostest bci_experiment_launch bagged_vision_no_hw.launch
