@@ -20,3 +20,4 @@
 - git: {local-name: barrett_model, uri: 'git@github.com:CURG/barrett_model.git'}
 - git: {local-name: mock_vision, uri: 'git@github.com:CURG/mock_vision.git'}
 - git: {local-name: mock_graspit, uri: 'git@github.com:CURG/mock_graspit.git'}
+- git: {local-name: mock_model_rec2, uri: 'git@github.com:CURG/mock_model_rec2.git'}
